@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- MathWorks Locale Database -->
+<!-- File Name: lcdata.xml -->
+<!-- Copyright 2007-2016 The MathWorks, Inc. -->
+<lcdata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="lcdata.xsd">
+<!-- Note: -->
+<!-- This locale database is used to customize the MathWorks locale database. -->
+
+<!-- Codeset entry example -->
+<!--    <codeset> -->
+<!--        <encoding name="StandardEncodingName" jvm_encoding="JavaEncodingName"> -->
+<!--            <encoding_alias name="AliasName"/> -->
+<!--        </encoding> -->
+<!--    </codeset> -->
+
+<!-- Locale entries example -->
+<!--    <locale name="StandardLocaleName" encoding="EncodingName" xpg_name="XpgLocaleName"> -->
+<!--        <alias name="AliasName"/> -->
+<!--    "region_alias" is only for Mac -->
+<!--        <region_alias name="RegionAliasName"/> -->
+<!--    </locale> -->
+<codeset>
+
+<encoding name="GB2312" jvm_encoding="GB2312">
+
+  <encoding_alias name="GB2312"/>
+
+  </encoding>
+
+</codeset>
+
+<locale name="en_US_POSIX" encoding="GB2312" xpg_name="zh_CN.GB2312">
+	<alias name="zh-CN"/>
+
+	<alias name="zh-Hans"/>
+
+	<alias name="zh-Hans-CN"/>
+
+</locale>
+<locale name="zh_CN" encoding="GB2312" xpg_name="zh_CN.GB2312">
+	<alias name="zh-CN"/>
+
+	<alias name="zh-Hans"/>
+
+	<alias name="zh-Hans-CN"/>
+
+</locale>
+
+
+
+
+
+</lcdata>
