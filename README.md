@@ -8,7 +8,7 @@
 
 \<locale name="zh_CN" encoding="GB2312" xpg_name="zh_CN.GB2312">
 
-	\<alias name="zh-CN"/>
+	<alias name="zh-CN"/>
 
 	<alias name="zh-Hans"/>
 
