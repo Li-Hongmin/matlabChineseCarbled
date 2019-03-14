@@ -7,10 +7,11 @@
 另外：如果删掉文件中40～47行如下内容，就可以用英文界面的matlab了。
 
 \<locale name="zh_CN" encoding="GB2312" xpg_name="zh_CN.GB2312">
+
 	\<alias name="zh-CN"/>
 
-	\<alias name="zh-Hans"/>
+	<alias name="zh-Hans"/>
 
-	\<alias name="zh-Hans-CN"/>
+	<alias name="zh-Hans-CN"/>
 
 \</locale>“
