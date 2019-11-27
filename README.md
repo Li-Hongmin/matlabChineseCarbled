@@ -3,7 +3,7 @@
 进入matlab的目录了找到 bin目录下 
 替换 lcdata.xml 文件即可
 
-这是已经做好了的[lcdata.xml]((./lcdata.xml)。
+这是已经做好了的[lcdata.xml](./lcdata.xml)。
 
 注意：必须要求系统语言为中文，如果是英文的系统照样乱码，实测无效。
 
